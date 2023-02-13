@@ -18,14 +18,14 @@ See the interactive map [here](https://scc-planning.github.io/find-my-councillor
 ### Minerals and Waste Mapping
 The [minerals-waste-map](https://github.com/SCC-Planning/minerals-waste-map) repository contains code for an interactive map to display Suffolk's Mineral and Waste sites, operators and functions.
 
-<img src="img/mw-example.png"/>
+<img src="img/mw-example.png" width = 480/>
 
 See the interactive map [here](https://scc-planning.github.io/minerals-waste-map/).
 
 ### Neighbourhood Planning Maps
 The [nps-mapping](https://github.com/SCC-Planning/nps-mapping) repository contains code for an interactive map to display all of Suffolks (and neighbouring district's) neighbourhood plans, and aggregates their websites in one place.
 
-<img src="img/nps-example.png"/>
+<img src="img/nps-example.png" width = 480/>
 
 See the interactive map [here](https://scc-planning.github.io/nps-mapping/).
 
