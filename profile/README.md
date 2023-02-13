@@ -11,7 +11,7 @@ Most styling is also discussed in the [SCC Cookbook](https://github.com/SCC-Plan
 ### Find your Councillor
 The [find-my-councillor](https://github.com/SCC-Planning/find-my-councillor) contains code for an interactive map to find all of Suffolk's County Councillor by their electoral division.
 
-<img src="img/fmc-example.png" width = 480/>
+<img src="img/fmc-example.png" width = 640/>
 
 See the interactive map [here](https://scc-planning.github.io/find-my-councillor/scc.html).
 
